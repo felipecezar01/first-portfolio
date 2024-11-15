@@ -22,7 +22,7 @@ Este repositório contém o meu **primeiro portfólio**, um projeto simples, mas
 ## Pré-visualização
 
 <div align="center">
-  <img src="pre-port-first.png" alt="Pré-visualização do Meu Primeiro Portfólio">
+  <img src="pre-port-fist.png" alt="Pré-visualização do Meu Primeiro Portfólio">
 </div>
 
 ---
